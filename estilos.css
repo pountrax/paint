@@ -1,0 +1,14 @@
+canvas{
+    margin:40px;
+    border:2px solid #000;
+}
+body{
+    background: rgb(96, 14, 14);
+}
+.editor{
+    background:#fff;
+    width:fit-content;
+    margin:auto;
+    margin-top:40px;
+}
+
